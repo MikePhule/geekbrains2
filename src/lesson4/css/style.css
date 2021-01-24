@@ -1,0 +1,7 @@
+.text-area {
+    -fx-control-inner-background: #aca9a9;
+}
+
+.button:hover {
+    -fx-background-color: #9dc69d;
+}
